@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- [![About me](https://img.shields.io/badge/About_Me-❤-orange)](https://pawar-mahesh.github.io/)
+- <img src="https://img.icons8.com/officel/48/000000/administrator-male.png"/> [![About me](https://img.shields.io/badge/About_Me-orange)](https://pawar-mahesh.github.io/)
 
 📫 You can reach me :
-- [![Mail](https://img.shields.io/badge/Mail-❤-red)](mailto:pawar.mahesh2345@gmail.com)
-- [![Facebook](https://img.shields.io/badge/Facebook-❤-blue)](https://www.facebook.com/mahi.pawar.14)
-- [![Whats app](https://img.shields.io/badge/Whats_app-❤-brightgreen)](https://api.whatsapp.com/send?phone=918055580245&text=&source=&data=)
-- [![Instagram](https://img.shields.io/badge/Instagram-❤-ff69b4)](https://www.instagram.com/mahesh.pawar_)
+- <img src="https://img.icons8.com/fluent/25/000000/gmail.png"/> [![Mail](https://img.shields.io/badge/Mail-red)](mailto:pawar.mahesh2345@gmail.com)
+- <img src="https://img.icons8.com/fluent/25/000000/facebook-new.png"/> [![Facebook](https://img.shields.io/badge/Facebook-blue)](https://www.facebook.com/mahi.pawar.14)
+- <img src="https://img.icons8.com/color/25/000000/whatsapp.png"/> [![Whats app](https://img.shields.io/badge/Whats_app-brightgreen)](https://api.whatsapp.com/send?phone=918055580245&text=&source=&data=)
+- <img src="https://img.icons8.com/cute-clipart/25/000000/instagram-new.png"/> [![Instagram](https://img.shields.io/badge/Instagram-ff69b4)](https://www.instagram.com/mahesh.pawar_)
