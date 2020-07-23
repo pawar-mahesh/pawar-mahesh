@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- [![About me](https://img.shields.io/badge/About_Me-❤-orange)](https://pawar-mahesh.github.io/)
 
 📫 You can reach me :
-- [![About me](https://img.shields.io/badge/About_Me-❤-orange)](https://pawar-mahesh.github.io/)
+- [![Mail](https://img.shields.io/badge/Mail-❤-orange)](mailto:pawar.mahesh2345@gmail.com)
+- [![Facebook](https://img.shields.io/badge/Facebook-❤-blue)](https://www.facebook.com/mahi.pawar.14)
+- [![Whats app](https://img.shields.io/badge/Whats_app-❤-green)](https://api.whatsapp.com/send?phone=918055580245&text=&source=&data=)
+- [![Instagram](https://img.shields.io/badge/Instagram-❤-pink)](https://www.instagram.com/mahesh.pawar_)
