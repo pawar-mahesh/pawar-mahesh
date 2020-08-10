@@ -23,3 +23,10 @@ Here are some ideas to get you started:
 - <img src="https://img.icons8.com/fluent/25/000000/facebook-new.png"/> [![Facebook](https://img.shields.io/badge/Facebook-blue)](https://www.facebook.com/mahi.pawar.14)
 - <img src="https://img.icons8.com/color/25/000000/whatsapp.png"/> [![Whats app](https://img.shields.io/badge/Whats_app-brightgreen)](https://api.whatsapp.com/send?phone=918055580245&text=&source=&data=)
 - <img src="https://img.icons8.com/cute-clipart/25/000000/instagram-new.png"/> [![Instagram](https://img.shields.io/badge/Instagram-ff69b4)](https://www.instagram.com/mahesh.pawar_)
+
+---
+
+[![Mahi's github stats](https://github-readme-stats.vercel.app/api?username=pawar-mahesh&show_icons=true&count_private=true&hide_border=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawar-mahesh&layout=compact&hide_border=true)](https://github.com/pawar-mahesh)
+
+---
