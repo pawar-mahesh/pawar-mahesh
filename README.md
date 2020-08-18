@@ -1,5 +1,4 @@
-### Hi there 👋
-### This is Mahesh
+### Hi there 👋 This is Mahesh - <img src="https://img.icons8.com/officel/48/000000/administrator-male.png"/> [![About me](https://img.shields.io/badge/About_Me-orange)](https://pawar-mahesh.github.io/)
 
 <!--
 **pawar-mahesh/pawar-mahesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,8 +21,6 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawar-mahesh&theme=great-gatsby&layout=compact&hide_border=true)](https://github.com/pawar-mahesh)
 
 ---
-
-- <img src="https://img.icons8.com/officel/48/000000/administrator-male.png"/> [![About me](https://img.shields.io/badge/About_Me-orange)](https://pawar-mahesh.github.io/)
 
 📫 You can reach me :
 - <img src="https://img.icons8.com/fluent/25/000000/gmail.png"/> [![Mail](https://img.shields.io/badge/Mail-red)](mailto:pawar.mahesh2345@gmail.com)
