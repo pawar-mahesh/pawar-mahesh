@@ -1,4 +1,4 @@
-### Hi there 👋 This is Mahesh - <img src="https://img.icons8.com/officel/48/000000/administrator-male.png"/> [![About me](https://img.shields.io/badge/About_Me-orange)](https://pawar-mahesh.github.io/)
+### Hi there 👋 This is Mahesh - <img src="https://avatars3.githubusercontent.com/pawar-mahesh?v=2&s=48"/> [![About me](https://img.shields.io/badge/About_Me-orange)](https://pawar-mahesh.github.io/)
 
 <!--
 **pawar-mahesh/pawar-mahesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
