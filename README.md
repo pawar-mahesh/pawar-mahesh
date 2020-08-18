@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ---
 
-[![Mahi's github stats](https://github-readme-stats.vercel.app/api?username=pawar-mahesh&show_icons=true&count_private=true&hide_border=true&include_all_commits=true)
+[![Mahi's github stats](https://github-readme-stats.vercel.app/api?username=pawar-mahesh&theme=great-gatsby&show_icons=true&count_private=true&hide_border=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawar-mahesh&layout=compact&hide_border=true)](https://github.com/pawar-mahesh)
 
 ---
