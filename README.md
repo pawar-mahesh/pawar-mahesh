@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawar-mahesh&theme=great-gatsby&layout=compact&hide_border=true)](https://github.com/pawar-mahesh)
 
 ---
+
+![Profile visit badge](https://komarev.com/ghpvc/?username=pawar-mahesh&style=flat-square)
