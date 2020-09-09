@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 ---
 
 ![Profile visit badge](https://komarev.com/ghpvc/?username=pawar-mahesh&style=flat-square)
-![Profile visit badge](https://img.shields.io/badge/Profile_visit-orange)(https://komarev.com/ghpvc/?username=pawar-mahesh&style=flat-square)
+![[Profile visit badge](https://img.shields.io/badge/Profile_visit-orange)](https://komarev.com/ghpvc/?username=pawar-mahesh&style=flat-square)
